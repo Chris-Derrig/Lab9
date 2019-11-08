@@ -1,0 +1,11 @@
+C:\Users\Rhonswood\source\repos\Lab9\obj\Debug\netcoreapp3.0\Lab9.AssemblyInfoInputs.cache
+C:\Users\Rhonswood\source\repos\Lab9\obj\Debug\netcoreapp3.0\Lab9.AssemblyInfo.cs
+C:\Users\Rhonswood\source\repos\Lab9\bin\Debug\netcoreapp3.0\Lab9.exe
+C:\Users\Rhonswood\source\repos\Lab9\bin\Debug\netcoreapp3.0\Lab9.deps.json
+C:\Users\Rhonswood\source\repos\Lab9\bin\Debug\netcoreapp3.0\Lab9.runtimeconfig.json
+C:\Users\Rhonswood\source\repos\Lab9\bin\Debug\netcoreapp3.0\Lab9.runtimeconfig.dev.json
+C:\Users\Rhonswood\source\repos\Lab9\bin\Debug\netcoreapp3.0\Lab9.dll
+C:\Users\Rhonswood\source\repos\Lab9\bin\Debug\netcoreapp3.0\Lab9.pdb
+C:\Users\Rhonswood\source\repos\Lab9\obj\Debug\netcoreapp3.0\Lab9.dll
+C:\Users\Rhonswood\source\repos\Lab9\obj\Debug\netcoreapp3.0\Lab9.pdb
+C:\Users\Rhonswood\source\repos\Lab9\obj\Debug\netcoreapp3.0\Lab9.csprojAssemblyReference.cache
